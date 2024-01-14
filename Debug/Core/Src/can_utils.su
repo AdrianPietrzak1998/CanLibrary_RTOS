@@ -1,0 +1,13 @@
+../Core/Src/can_utils.c:29:19:Can20SendSimple	64	static
+../Core/Src/can_utils.c:64:19:Can20SendLongMsgCrc	32	static
+../Core/Src/can_utils.c:100:19:Can20SendCheck	48	static
+../Core/Src/can_utils.c:132:19:Can20ReceiverCheckFrameInit	24	static
+../Core/Src/can_utils.c:163:19:Can20ReceiverInit	24	static
+../Core/Src/can_utils.c:203:15:CalculateTargetFrameSize	24	static
+../Core/Src/can_utils.c:234:22:Can20ReceiverRoutine	80	static
+../Core/Src/can_utils.c:346:22:Can20ReceiverOvrTimSet	24	static
+../Core/Src/can_utils.c:357:6:Can20ReceiverOvrTimRoutine	24	static
+../Core/Src/can_utils.c:383:6:Can20ReceiverOvrTimTask	16	static
+../Core/Src/can_utils.c:446:19:Can20aInit	24	static
+../Core/Src/can_utils.c:497:6:HAL_CAN_RxFifo0MsgPendingCallback	16	static
+../Core/Src/can_utils.c:503:6:HAL_CAN_RxFifo1MsgPendingCallback	16	static
